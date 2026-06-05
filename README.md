@@ -38,8 +38,3 @@ The objective is to discover business insights from sales data through data clea
 * Pandas GroupBy Operations
 * Data Visualization
 * Business Intelligence
-
-## Author
-
-[Your Name]
-Python Developer Intern
