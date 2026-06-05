@@ -1,13 +1,20 @@
-Sales Performance Analysis using Pandas
-Project Overview
+# Sales Performance Analysis using Pandas
+
+## Project Overview
+
 This project analyzes over 500,000 retail transactions using Python and Pandas.
+
 The objective is to discover business insights from sales data through data cleaning, aggregation, and visualization techniques.
-Technologies Used
+
+## Technologies Used
+
 * Python
 * Pandas
 * Matplotlib
 * Jupyter Notebook
-Key Analysis Performed
+
+## Key Analysis Performed
+
 * Data Cleaning
 * Revenue Calculation
 * Top Selling Products Analysis
@@ -15,16 +22,24 @@ Key Analysis Performed
 * Monthly Sales Trend Analysis
 * Top Customer Analysis
 * Business Insights Generation
-Results
+
+## Results
+
 * Identified highest selling products.
 * Found top revenue generating countries.
 * Discovered valuable customers.
 * Analyzed monthly sales trends.
 * Generated actionable business recommendations.
-Skills Demonstrated
+
+## Skills Demonstrated
+
 * Data Analysis
 * Data Cleaning
 * Pandas GroupBy Operations
 * Data Visualization
 * Business Intelligence
 
+## Author
+
+[Your Name]
+Python Developer Intern
